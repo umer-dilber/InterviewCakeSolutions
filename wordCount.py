@@ -72,5 +72,5 @@ class WordCloud:
 
 word = WordCloud()
 
-word.splitAndPopulateDictionary(  'Cliff finished his cake and paid the bill.'
+word.splitAndPopulateDictionary(  'Cliff finished-his cake and paid the bill.'
 'Bill finished his cake at the edge of the cliff.')
